@@ -38,3 +38,15 @@ public class Overloading
 	}
 
 }
+
+
+/*
+
+OUTPUT :
+
+Enter name of student : ABC
+Enter Roll No. of student : 1
+Enter Percentage of student : 68
+Name: ABC   Roll No.: 1   Percentage: 68.0
+
+*/
